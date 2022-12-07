@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">bts_android</string>
+    <string name="switch_name_integer">Integer</string>
+    <string name="switch_name_datetime">DateTime</string>
+    <string name="button_add_elem">Добавить</string>
+    <string name="button_balance">Балансировка</string>
+    <string name="button_save">Сохранение</string>
+    <string name="button_load">Загрузка</string>
+    <string name="button_delete">Удалить</string>
+    <string name="button_search">Поиск</string>
+</resources>
